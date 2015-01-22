@@ -14,6 +14,7 @@ var Timelock = require('../');
 
 describe('timelock', function() {
 
+  // xpriv: xprv9s21ZrQH143K47jswbsCfWYimr5gBa347a5bPmmACuRnk9xukCRE3fqZtYpmWUjf2X2A5Eur3dpWVBqsuy1RRPHniHcx51X6qo3mEUPAYmE
   var xpub = new HDPublicKey('xpub661MyMwAqRbcGbpM3dQD2eVTKsvAb2kuUo1CCAAmmExmcxJ4HjjUbUA3jpxssce4KZ6pDmfnSHz7uXDdF6wUACVR5BNt7u6uDcNf1cMuSCa');
 
   it('exists', function() {
