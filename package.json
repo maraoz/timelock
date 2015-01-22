@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/maraoz/timelock",
   "dependencies": {
-    "bitcore": "^0.9.3"
+    "bitcore": "^0.9.3",
+    "lodash": "^2.4.1"
   },
   "devDependencies": {
     "chai": "^1.10.0",
