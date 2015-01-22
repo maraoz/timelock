@@ -1,0 +1,28 @@
+{
+  "name": "timelock",
+  "version": "1.0.0",
+  "description": "A timelocked transaction negotiation agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maraoz/timelock.git"
+  },
+  "keywords": [
+    "nLockTime",
+    "bitcoin",
+    "bitcore",
+    "contract"
+  ],
+  "author": "Manuel Araoz <manuelaraoz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maraoz/timelock/issues"
+  },
+  "homepage": "https://github.com/maraoz/timelock",
+  "dependencies": {
+    "bitcore": "^0.9.3"
+  }
+}
